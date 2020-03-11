@@ -1,0 +1,12 @@
+a,a:hover,a:visited {
+    cursor:pointer;
+    color:white;
+}
+
+a.btn-primary {
+    color:white;
+}
+
+.card-header {
+    cursor:pointer;
+}
